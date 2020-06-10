@@ -31,6 +31,10 @@
 
 /* Template default CSS
 /*----------------------------------------*/
+.lobster{
+	font-family: 'Lobster', cursive;
+    
+}
 
 html,
 body {
